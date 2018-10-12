@@ -7,7 +7,7 @@
  */
 
 module.exports = [{
-  name: 'vue-template',
+  name: 'devtool-vue-template',
   git: 'https://github.com/pspgbhu/Rephic.git',
   desc: '支持微联本地调试的 vue 模板',
 }];
