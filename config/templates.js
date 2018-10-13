@@ -56,19 +56,19 @@ module.exports = [
     desc: '空气监测仪3.0协议 H5 模版',
   },
   {
-    name: '空气压力传感器3.0协议 H5 模版',
-    desc: 'airPressure-JL3-template',
+    name: 'airPressure-JL3-template',
+    desc: '空气压力传感器3.0协议 H5 模版',
   },
   {
-    name: '空调2.0协议 H5 模版',
-    desc: 'conditioning-JL2-template',
+    name: 'conditioning-JL2-template',
+    desc: '空调2.0协议 H5 模版',
   },
   {
-    name: '冰箱控制 H5 模板',
-    desc: 'fridge-template',
+    name: 'fridge-template',
+    desc: '冰箱控制 H5 模板',
   },
   {
-    name: '云端定时 H5 模板',
-    desc: 'timing-task-template',
+    name: 'timing-task-template',
+    desc: '云端定时 H5 模板',
   },
 ];
