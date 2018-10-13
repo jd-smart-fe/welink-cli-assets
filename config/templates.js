@@ -7,10 +7,12 @@
  */
 
 module.exports = [
+  { type: 'separator', line: '微联本地调试的 vue 模板' },
   {
     name: 'devtool-vue-template',
-    desc: '支持微联本地调试的 vue 模板',
+    desc: '微联本地调试的 vue 模板',
   },
+  { type: 'separator', line: 'JoyLink 3.0' },
   {
     name: 'aircleaner-JL3-template',
     desc: '空气净化器3.0协议 H5',
@@ -59,6 +61,7 @@ module.exports = [
     name: 'airPressure-JL3-template',
     desc: '空气压力传感器3.0协议 H5 模版',
   },
+  { type: 'separator', line: 'JoyLink 2.0' },
   {
     name: 'conditioning-JL2-template',
     desc: '空调2.0协议 H5 模版',
